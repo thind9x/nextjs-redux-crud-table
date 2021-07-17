@@ -1,10 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+### Live demo: [Nextjs Redux Crud React App](https://nextjs-redux-crud.web.app//) 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+git clone https://github.com/thind9x/nextjs-redux-crud-table.git
+cd : nextjs-redux-crud-table
+npm i
 npm run dev
 # or
 yarn dev
